@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553796841 source:c:\users\alex\desktop\lfacodeblocks\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
